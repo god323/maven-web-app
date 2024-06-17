@@ -4,7 +4,7 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : pranav you have deployed , poll_scm check , build trigger check , deployment stratergy Rolling Update check </h2>
+  <h2> Call Us : pranav you have deployed -1 , poll_scm check , build trigger check , deployment stratergy Rolling Update check </h2>
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
 
